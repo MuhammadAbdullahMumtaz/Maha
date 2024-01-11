@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.ab-image{
+    min-height: 60vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.1),rgba(4,9,30,0.1)),url(./img/About-1.avif);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.ab-inner{
+    position: relative;
+    text-align: center;
+    padding-top: 160px;
+    color: #fff;
+    display: block;
+    z-index: 2;
+}
+.ab-img img{
+    height: 600px;
+    width: 600px;
+    padding-bottom: 80px;
+}
+.about{
+    margin-left: 10px;
+}

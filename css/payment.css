@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pay-image{
+    min-height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.1),rgba(4,9,30,0.1)),url(./img/payments.avif);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.pay-inner{
+    position: relative;
+    text-align: center;
+    padding-top: 160px;
+    color: #fff;
+    display: block;
+    z-index: 2;
+}
+.main-dev{
+    display: flex;
+    padding: 5% 8%;
+    justify-content: space-between;
+    align-items: center;
+}
+.head-1 h5{
+    word-spacing: 1.25px;
+    padding: 30px;
+}
+.head-1 p{
+    color: grey;
+    font-size: 22px;
+    padding: 30px;
+}

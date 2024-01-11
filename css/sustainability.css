@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sus-image{
+    min-height: 60vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.1),rgba(4,9,30,0.1)),url(./img/Sustain-1.avif);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.sus-inner{
+    position: relative;
+    text-align: center;
+    padding-top: 160px;
+    color: #fff;
+    display: block;
+    z-index: 2;
+}
+.text p{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 500;
+    padding: 100px;
+}
+.sus-img img{
+    height: 800px;
+    width: 600px;
+    padding-bottom: 80px;
+	transition :0.5s;
+	/*border:1px solid black;*/
+}
+.sus-img:hover{
+	transform:scale(1.2);
+}
+.sustain{
+    display: flex;
+    padding: 0 10%;
+    justify-content: space-between;
+    align-items: center;
+}
+.sus-text h3{
+    font-size: 48px;
+    padding: 10px;
+}
+.sus-text p{
+    font-size: 20px;
+    color: gray;
+    padding: 20px;
+    word-spacing: 1.15px;
+}

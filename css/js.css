@@ -1,0 +1,16 @@
+.fade-animate,.fade-animate1,.fade-animate2,.fade-animate3,.fade-animate4,.fade-animate5,.fade-animate6
+,.fade-animate7,.fade-animate8,.fade-animate9,.fade-animate10,.fade-animate11,.fade-animate12,.fade-animate13
+,.fade-animate14,.fade-animate15,.fade-animate16,.fade-animate17,.fade-animate18,.fade-animate19,.fade-animate20
+,.fade-animate21,.fade-animate22{
+    opacity: 0;
+}
+.fade-animate .animate__animated , .fade-animate1 .animate__animated , .fade-animate2 .animate__animated
+, .fade-animate3 .animate__animated , .fade-animate4 .animate__animated , .fade-animate5 .animate__animated
+, .fade-animate6 .animate__animated , .fade-animate7 .animate__animated , .fade-animate8 .animate__animated
+, .fade-animate9 .animate__animated , .fade-animate10 .animate__animated , .fade-animate11 .animate__animated
+, .fade-animate12 .animate__animated , .fade-animate13 .animate__animated , .fade-animate14 .animate__animated
+, .fade-animate15 .animate__animated , .fade-animate16 .animate__animated , .fade-animate17 .animate__animated
+, .fade-animate18 .animate__animated , .fade-animate19 .animate__animated , .fade-animate20 .animate__animated
+, .fade-animate21 .animate__animated , .fade-animate22 .animate__animated {
+    opacity: 1;
+}
